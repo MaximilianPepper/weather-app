@@ -1,5 +1,5 @@
 body {
-  background-image: url("/sky.jpg");
+  background-image: url("./img/sky.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   font-family: "Dancing Script", cursive, sans-serif;

@@ -1,3 +1,4 @@
 # Weather-app
 
-A simple weather app to test ASync code and API requests.
+[Live link](https://maximilianpepper.github.io/weather-app/) <br>
+A simple weather app to test Async code and API requests.
